@@ -1,0 +1,21 @@
+
+		-------------------------------------
+		Read this carefully before open !
+		-------------------------------------
+
+
+1. Install IntelliJ IDEA, Java JDK 21 and mysql workbench correctly to your computer.
+
+2. In Databasefiles you have mysql database import it to your computer via mysql.
+
+3. Go to Project files and open the project via IntelliJ IDEA.
+
+4. Go to project structure and import Jar Files I provided.
+
+5. Open StudyFocusApp.java go to line 33 and 387 change user name and password according your MySQL user name and password.
+
+6. Open AppWithoutGUI.java go to line 32 change user name and password according your MySQL user name and password.
+
+7. Then again Open StudyFocusApp.java and go to the line 338 and change the locations of the where you saved the project File. (When you choosing the path go to the main folder java application > Music > then copy the location and paste it in the Mentioned code line. If you want to add more music you can add to that folder and the data type should be in .wav format)
+
+8. Open StudyFocusApp.java and run the project.
